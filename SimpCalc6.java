@@ -1,9 +1,7 @@
 package ie.Calc;
 
 public class SimpCalc6 {
-	public SimpCalc() {
-		
-	}
+
 	public int add(int x, int y) {
 		return x+y;
 	}
